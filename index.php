@@ -38,6 +38,8 @@
                             <textarea class="form-control" id="mensagem" rows="3"></textarea>
                         </div>
 
+                        <button type="submit" class="btn btn-primary btn-lg">Enviar Mensagem</button>
+
                     </form>
                 </div>
             </div>

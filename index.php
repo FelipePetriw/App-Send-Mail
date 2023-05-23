@@ -32,6 +32,11 @@
                             <label for="assunto">Assunto</label>
                             <input type="text" class="form-control" id="assunto" placeholder="Assunto do e-mail">
                         </div>
+                        
+                        <div class="form-control">
+                            <label for="mensagem">Mensagem</label>
+                            <textarea class="form-control" id="mensagem" rows="3"></textarea>
+                        </div>
 
                     </form>
                 </div>

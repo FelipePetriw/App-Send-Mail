@@ -19,31 +19,31 @@
             <p class="lead">Seu app de envio de e-mails particular!</p>
         </div><!--FIM CABEÇALHO -->
 
-        <div class="row">
+        <div class="row"><!-- INICIO FORMULÁRIOS DO PROJETO -->
             <div class="col-md-12">
                 <div class="card-body font-weight-bold">
                     <form action="">
-                        <div class="form-group">
+                        <div class="form-group"><!-- INICIO INPUT E-MAIL/RECEBEDOR -->
                             <label for="para">Para</label>
                             <input type="text" class="form-control" id="para" placeholder="felipe@dominio.com.br">
-                        </div>
+                        </div><!-- FIM INPUT E-MAIL/RECEBEDOR -->
 
-                        <div class="form-group">
+                        <div class="form-group"><!-- INICIO INPUT ASSUNTO DO E-MAIL -->
                             <label for="assunto">Assunto</label>
                             <input type="text" class="form-control" id="assunto" placeholder="Assunto do e-mail">
-                        </div>
+                        </div><!-- FIM INPUT ASSUNTO DO E-MAIL -->
                         
-                        <div class="form-control">
+                        <div class="form-control"><!-- INICIO MENSAGEM DO E-MAIL -->
                             <label for="mensagem">Mensagem</label>
                             <textarea class="form-control" id="mensagem" rows="3"></textarea>
-                        </div>
+                        </div><!-- FIM MENSAGEM DO E-MAIL -->
 
-                        <button type="submit" class="btn btn-primary btn-lg">Enviar Mensagem</button>
+                        <button type="submit" class="btn btn-primary btn-lg">Enviar Mensagem</button><!-- BOTÃO DE ENVIO DA MENSAGEM DO E-MAIL -->
 
                     </form>
                 </div>
             </div>
-        </div>
+        </div><!-- FIM FORMULÁRIOS DO PROJETO -->
 
     </div><!--FIM CONTAINER PRINCIPAL -->
 

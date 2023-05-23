@@ -19,10 +19,10 @@
             <p class="lead">Seu app de envio de e-mails particular!</p>
         </div><!--FIM CABEÇALHO -->
 
-        <div class="row"><!-- INICIO FORMULÁRIOS DO PROJETO -->
+        <div class="row"><!-- INICIO DIV DE FORMULÁRIOS DO PROJETO -->
             <div class="col-md-12">
                 <div class="card-body font-weight-bold">
-                    <form action="">
+                    <form action=""><!-- INICIO DE FORMULÁRIOS DO PROJETO -->
                         <div class="form-group"><!-- INICIO INPUT E-MAIL/RECEBEDOR -->
                             <label for="para">Para</label>
                             <input type="text" class="form-control" id="para" placeholder="felipe@dominio.com.br">
@@ -40,10 +40,10 @@
 
                         <button type="submit" class="btn btn-primary btn-lg">Enviar Mensagem</button><!-- BOTÃO DE ENVIO DA MENSAGEM DO E-MAIL -->
 
-                    </form>
+                    </form><!-- FIM DE FORMULÁRIOS DO PROJETO -->
                 </div>
             </div>
-        </div><!-- FIM FORMULÁRIOS DO PROJETO -->
+        </div><!-- FIM DIV DE FORMULÁRIOS DO PROJETO -->
 
     </div><!--FIM CONTAINER PRINCIPAL -->
 

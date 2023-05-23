@@ -11,13 +11,15 @@
 </head>
 <body>
     
-    <div class="container"><!--INICIO CABEÇALHO -->
-        <div class="py-3 text-center">
+    <div class="container"><!--INICIO CONTAINER PRINCIPAL -->
+
+        <div class="py-3 text-center"><!--INICIO CABEÇALHO -->
             <img class="d-block mx-auto mb-2" src="logo.png" alt="desenho avião de envio" width="72" height="72">
             <h2>Send Mail</h2>
             <p class="lead">Seu app de envio de e-mails particular!</p>
-        </div>
-    </div><!--FIM CABEÇALHO -->
+        </div><!--FIM CABEÇALHO -->
+        
+    </div><!--FIM CONTAINER PRINCIPAL -->
 
 </body>
 </html>

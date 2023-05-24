@@ -22,20 +22,20 @@
         <div class="row"><!-- INICIO DIV DE FORMULÁRIOS DO PROJETO -->
             <div class="col-md-12">
                 <div class="card-body font-weight-bold">
-                    <form action=""><!-- INICIO DE FORMULÁRIOS DO PROJETO -->
+                    <form action="processa_envio.php" method="post"><!-- INICIO DE FORMULÁRIOS DO PROJETO -->
                         <div class="form-group"><!-- INICIO INPUT E-MAIL/RECEBEDOR -->
                             <label for="para">Para</label>
-                            <input type="text" class="form-control" id="para" placeholder="felipe@dominio.com.br">
+                            <input name="para" type="text" class="form-control" id="para" placeholder="felipe@dominio.com.br">
                         </div><!-- FIM INPUT E-MAIL/RECEBEDOR -->
 
                         <div class="form-group"><!-- INICIO INPUT ASSUNTO DO E-MAIL -->
                             <label for="assunto">Assunto</label>
-                            <input type="text" class="form-control" id="assunto" placeholder="Assunto do e-mail">
+                            <input name="assunto" type="text" class="form-control" id="assunto" placeholder="Assunto do e-mail">
                         </div><!-- FIM INPUT ASSUNTO DO E-MAIL -->
                         
                         <div class="form-control"><!-- INICIO MENSAGEM DO E-MAIL -->
                             <label for="mensagem">Mensagem</label>
-                            <textarea class="form-control" id="mensagem" rows="3"></textarea>
+                            <textarea name="mensagem" class="form-control" id="mensagem" rows="3"></textarea>
                         </div><!-- FIM MENSAGEM DO E-MAIL -->
 
                         <button type="submit" class="btn btn-primary btn-lg">Enviar Mensagem</button><!-- BOTÃO DE ENVIO DA MENSAGEM DO E-MAIL -->

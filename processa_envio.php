@@ -14,8 +14,14 @@ class Mensagem {
     }
 
     public function mensagemValida() {
-        
+        //
     }
 }
+
+$mensagem = new Mensagem();
+
+$mensagem->__set('para', $_POST['para']);
+$mensagem->__set('assunto', $_POST['assunto']);
+$mensagem->__set('mensagem', $_POST['mensagem']);
 
 ?>

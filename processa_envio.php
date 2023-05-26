@@ -1,5 +1,14 @@
 <?php
 
+require "./bibliotecas/PHPMailer/Exception.php";
+require "./bibliotecas/PHPMailer/OAuth.php";
+require "./bibliotecas/PHPMailer/PHPMailer.php";
+require "./bibliotecas/PHPMailer/POP3.php";
+require "./bibliotecas/PHPMailer/SMTP.php";
+
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+
 class Mensagem {
     private $para = null;
     private $assunto = null;

@@ -48,10 +48,10 @@ try {
     //Server settings
     $mail->SMTPDebug = 2;                               //Enable verbose debug output
     $mail->isSMTP();                                    //Send using SMTP
-    $mail->Host = 'smtp.example.com;smtp2.example.com'; //Set the SMTP server to send   through
+    $mail->Host = 'smtp.gmail.com'; //Set the SMTP server to send   through
     $mail->SMTPAuth = true;                             //Enable SMTP authentication
-    $mail->Username = 'user@example.com';               //SMTP username
-    $mail->Password = 'secret';                         //SMTP password
+    $mail->Username = 'projetoappsendmail@gmail.com';   //SMTP username
+    $mail->Password = 'AppSendMail';                    //SMTP password
     $mail->SMTPSecure = 'tls';                          //Enable implicit TLS encryption
     $mail->Port = 587;                                  //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 

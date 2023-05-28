@@ -39,7 +39,7 @@ $mensagem->__set('mensagem', $_POST['mensagem']);
 
 if(!$mensagem->mensagemValida()) {
     echo 'Mensagem não é válida';
-    die();
+    header('Location: index.php');
 } 
 
 $mail = new PHPMailer(true);

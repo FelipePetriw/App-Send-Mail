@@ -9,10 +9,10 @@ Foi utilizado no projeto funções para que após o usuário logar ao sistema, o
 
 ## 🎨 Layout
 
-![image](https://github.com/FelipePetriw/Help-Desk-Web-Page/blob/main/img/Tela01.JPG)
-![image](https://github.com/FelipePetriw/Help-Desk-Web-Page/blob/main/img/Tela02.JPG)
-![image](https://github.com/FelipePetriw/Help-Desk-Web-Page/blob/main/img/Tela03.JPG)
-![image](https://github.com/FelipePetriw/Help-Desk-Web-Page/blob/main/img/Tela04.JPG)
+![image]()
+![image]()
+![image]()
+![image]()
 
 ## 🛠 Tecnologias
 

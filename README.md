@@ -1,11 +1,9 @@
 # App Send Mail
  
 ## 💻 Sobre o Projeto
-Desenvolvimento de um programa em página web para abertura de chamados de Help Desk, para acessa-lo o usuários precisa ter o login cadastrados.
+Desenvolvimento de um programa em página web para realizar o envio de e-mails, substituindo assim as principais plataformas de e-mails, podendo ainda ser personalizado a empresa que irá utiliza-lo.
 
-O programa conta com o controle de perfis, fazendo com que os usuários só possam ver os chamados que foram aberto por eles, exceto os usuários administradores que consegue visualizar todos os chamados abertos.
-
-Foi utilizado no projeto funções para que após o usuário logar ao sistema, os seus dados de login não fiquem visiveis no código ou URL pois o arquivo de validação de login e usuários ficam alocados em outro repositório.
+O programa permitirá a substituição de principais plataformas de e-mails usadas no mercado, um atrativo para isto é a personalização do programa com a logo da empresa que está utilizando.
 
 ## 🎨 Layout
 

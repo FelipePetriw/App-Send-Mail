@@ -7,7 +7,7 @@ O programa permitirá a substituição de principais plataformas de e-mails usad
 
 ## 🎨 Layout
 
-![image]()
+![image](https://github.com/FelipePetriw/App-Send-Mail/blob/main/img/Tela%2001.jpg)
 ![image]()
 ![image]()
 ![image]()

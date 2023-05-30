@@ -9,8 +9,7 @@ O programa permitirá a substituição de principais plataformas de e-mails usad
 
 ![image](https://github.com/FelipePetriw/App-Send-Mail/blob/main/img/Tela%2001.jpg)
 ![image](https://github.com/FelipePetriw/App-Send-Mail/blob/main/img/Tela%2002.jpg)
-![image]()
-![image]()
+![image](https://github.com/FelipePetriw/App-Send-Mail/blob/main/img/Tela%2003.jpg)
 
 ## 🛠 Tecnologias
 
